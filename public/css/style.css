@@ -1,0 +1,22 @@
+@font-face {
+    font-face: 'Open Sans';
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('../fonts/OpenSans-Light.ttf');
+}
+
+
+body {
+    background-color: #F9F9F9;
+    background-image: url('../images/bg-stone.png');
+    background-repeat: repeat-x;
+    font-family: 'Open Sans', Ubuntu, Arial;
+}
+
+h1.main-heading {
+    font-family: 'Open Sans Light';
+    font-size: 30px;
+}

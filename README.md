@@ -4,6 +4,6 @@
 The system that powers events.mozillakerala.org
 
 
-## Required modules:
+### Required modules:
 
-#### - mongodb
+- mongodb
